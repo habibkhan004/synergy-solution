@@ -18,23 +18,7 @@ import six10 from "../gallary/16.jpeg"
 import Seven10 from "../gallary/17.jpeg"
 import eight10 from "../gallary/18.jpeg"
 import nine10 from "../gallary/19.jpeg"
-import twenty from "../gallary/20.jpeg"
-import one20 from "../gallary/21.jpeg"
-import two20 from "../gallary/22.jpeg"
-import  three20 from "../gallary/23.jpeg"
-import  four20 from "../gallary/24.jpeg"
-import  five20 from "../gallary/25.jpeg"
-import  six20 from "../gallary/26.jpeg"
-import  seven20 from "../gallary/27.jpeg"
-import  eight20 from "../gallary/28.jpeg"
-import  nine20 from "../gallary/29.jpeg"
-import  thirty from "../gallary/30.jpeg"
-import  one30 from "../gallary/31.jpeg"
-import  two30 from "../gallary/32.jpeg"
-import  three30 from "../gallary/33.jpeg"
-import  four30 from "../gallary/34.jpeg"
-import  five30 from "../gallary/35.jpeg"
-import  six30 from "../gallary/36.jpeg"
 
 
-export let galleryHome =[one,two, three, three2, four,five,Six,Seven,eight,nine,ten,eleven,twelve,thir10,four10,fif10,six10,Seven10,eight10, nine10,twenty,one20,two20,three20,four20,five20,six20,seven20,eight20,nine20,thirty,one30,two30,three30,four30,five30,six30]
+
+export let galleryHome =[one,two, three, three2, four,five,Six,Seven,eight,nine,ten,eleven,twelve,thir10,four10,fif10,six10,Seven10,eight10, nine10]
