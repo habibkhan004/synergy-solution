@@ -1,5 +1,5 @@
 import one from "./gallary/1.jpeg";
-import two from "./gallary/36.jpeg";
+import two from "./gallary/16.jpeg";
 import "./css/about.css";
 let About = () => {
   return (
