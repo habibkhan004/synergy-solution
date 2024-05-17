@@ -10,7 +10,6 @@ let Mission = () => {
             textAlign: "center",
             fontSize: "15px",
             textTransform: "none",
-            textAlign: "justify",
             width: "86vw",
           }}
         >
